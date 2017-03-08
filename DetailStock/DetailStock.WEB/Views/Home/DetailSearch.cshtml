@@ -1,0 +1,38 @@
+﻿@model IEnumerable<DetailStock.BLL.DTO.DetailDTO>
+@foreach (var item in Model)
+{
+     <tr>
+        <td>
+            @Html.HiddenFor(modelItem => item.DetailId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomenclativeCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DetailName)
+        </td>
+        <td>
+            @if (item.SpecialConside)
+            {
+                <i class="fa fa-check-square" aria-hidden="true"></i>
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DetailCount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateAdded)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StockmanName)
+        </td>
+        <td>
+            @Html.ActionLink("Изменить", "Edit", new {id = item.DetailId}, 
+           new { @class = "viewDialog3", data_dialog_title = "Изменение детали" })|
+            @Html.ActionLink("Удалить", "DeleteDetail", new {id = item.DetailId},
+            new { @class = "viewDialog", data_dialog_title = "Удаление детали" })
+
+        </td>
+    </tr>
+    
+}

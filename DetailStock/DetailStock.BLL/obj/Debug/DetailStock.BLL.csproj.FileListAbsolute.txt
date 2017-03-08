@@ -1,0 +1,80 @@
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\obj\Debug\DetailStock.BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.BLL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.BLL.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\obj\Debug\DetailStock.BLL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\obj\Debug\DetailStock.BLL.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\WebActivator.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.BLL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.BLL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\WebActivator.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.BLL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.BLL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\Ninject.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\WebActivator.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\Ninject.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.BLL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.BLL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\Ninject.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\WebActivator.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\Ninject.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\obj\Debug\DetailStock.BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\obj\Debug\DetailStock.BLL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.BLL\obj\Debug\DetailStock.BLL.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\DetailStock.BLL.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\DetailStock.BLL.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\WebActivator.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.BLL\obj\Debug\DetailStock.BLL.pdb

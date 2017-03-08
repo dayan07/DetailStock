@@ -1,0 +1,350 @@
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ApplicationInsights.config
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\csc.exe
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.WEB.dll.config
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.WEB.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.WEB.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\obj\Debug\DetailStock.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\obj\Debug\DetailStock.WEB.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\obj\Debug\DetailStock.WEB.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\AutoMapper.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.BLL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\EntityFramework.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Ninject.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\WebActivator.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.BLL.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\AutoMapper.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\EntityFramework.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Ninject.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.WEB\bin\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ApplicationInsights.config
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\csc.exe
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.WEB.dll.config
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.WEB.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.WEB.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\AutoMapper.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.BLL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Ninject.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\WebActivator.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.BLL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\AutoMapper.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Ninject.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ApplicationInsights.config
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\csc.exe
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.WEB.dll.config
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.WEB.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.WEB.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\AutoMapper.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.BLL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Ninject.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\WebActivator.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.BLL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\AutoMapper.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Ninject.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ApplicationInsights.config
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\csc.exe
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.WEB.dll.config
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.WEB.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.WEB.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\AutoMapper.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.BLL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\EntityFramework.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Ninject.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\WebActivator.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.BLL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\AutoMapper.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\EntityFramework.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Ninject.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\obj\Debug\DetailStock.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\obj\Debug\DetailStock.WEB.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.WEB\obj\Debug\DetailStock.WEB.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.WEB.dll.config
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.WEB.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.WEB.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\AutoMapper.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.BLL.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\EntityFramework.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Ninject.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\WebActivator.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\WebActivatorEx.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.DAL.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.BLL.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\AutoMapper.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\EntityFramework.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Ninject.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\DetailStock.DAL.pdb
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.dll
+C:\Users\User\Desktop\Норма — копия\DetailStock.WEB\obj\Debug\DetailStock.WEB.pdb

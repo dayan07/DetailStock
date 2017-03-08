@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\obj\Debug\DetailStock.DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll.config
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\obj\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock\DetailStock.DAL\obj\Debug\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll.config
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\obj\Debug\DetailStock.DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\obj\Debug\DetailStock.DAL.dll
+C:\Users\User\Desktop\DetailStock — копия\DetailStock.DAL\obj\Debug\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll.config
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\obj\Debug\DetailStock.DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\obj\Debug\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock — копия\DetailStock.DAL\obj\Debug\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll.config
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\DetailStock.DAL.pdb
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\obj\Debug\DetailStock.DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\obj\Debug\DetailStock.DAL.dll
+C:\Users\User\Downloads\DetailStock\DetailStock.DAL\obj\Debug\DetailStock.DAL.pdb

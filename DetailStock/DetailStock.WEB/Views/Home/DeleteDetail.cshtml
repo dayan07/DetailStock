@@ -1,0 +1,73 @@
+﻿@model DetailStock.BLL.DTO.DetailDTO
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteDetail</title>
+</head>
+<body>
+    <h3>Вы уверены, что хотите удалить эту деталь?</h3>
+    <div>
+        <h4>Деталь</h4>
+        <hr />
+        <dl class="dl-horizontal">
+           <dt>
+                Номенклатурный код
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.NomenclativeCode)
+            </dd>
+    
+            <dt>
+                Название
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DetailName)
+            </dd>
+    
+            <dt>
+               Особоучитываемая
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.SpecialConside)
+            </dd>
+    
+            <dt>
+               Количество деталей
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DetailCount)
+            </dd>
+    
+            <dt>
+               Дата добавления
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DateAdded)
+            </dd>
+    
+           
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Удалить" class="btn btn-default" /> |
+                @Html.ActionLink("Назад", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>
